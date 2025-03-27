@@ -1,0 +1,44 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "ishachaudhary_3QURqs",
+  "key": "UqdhjsfZKaQkwGcwR1MZ",
+  "capabilities": {
+    "build": "TestNG-BrowserStack-Parallel",
+    "name": "Parallel Web Scraping Test",
+    "browserstack.debug": true
+  },
+  "environments": {
+    "chrome_desktop": {
+      "browser": "chrome",
+      "browser_version": "latest",
+      "os": "Windows",
+      "os_version": "10"
+    },
+    "firefox_desktop": {
+      "browser": "firefox",
+      "browser_version": "latest",
+      "os": "Windows",
+      "os_version": "10"
+    },
+    "safari_desktop": {
+      "browser": "safari",
+      "browser_version": "latest",
+      "os": "OS X",
+      "os_version": "Catalina"
+    },
+    "chrome_mobile": {
+      "device": "Google Pixel 4",
+      "os": "Android",
+      "os_version": "10",
+      "browser": "chrome",
+      "browser_version": "latest"
+    },
+    "safari_mobile": {
+      "device": "iPhone 12",
+      "os": "iOS",
+      "os_version": "15",
+      "browser": "safari",
+      "browser_version": "latest"
+    }
+  }
+}
