@@ -26,8 +26,8 @@ mvn clean install
 ## Output Screenshots  
 
 
-![Uploading output1.png…]()
- 
+<img width="1401" alt="output1" src="https://github.com/user-attachments/assets/ca372a91-cc62-495f-82e6-1a6a5d266651" />
+
 <img width="1108" alt="output2" src="https://github.com/user-attachments/assets/da484eab-f280-4ffd-9d20-6f48b6bc1b15" />
   
 <img width="1352" alt="output3" src="https://github.com/user-attachments/assets/54e67585-8828-47df-97a9-142b1d92a3aa" />
