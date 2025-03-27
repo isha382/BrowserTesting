@@ -26,9 +26,12 @@ mvn clean install
 ## Output Screenshots  
 
 
-![Output 1](./assets/output1.png)  
-![Output 2](./assets/output2.png)  
-![Output 3](./assets/output3.png)
+![Uploading output1.png…]()
+ 
+<img width="1108" alt="output2" src="https://github.com/user-attachments/assets/da484eab-f280-4ffd-9d20-6f48b6bc1b15" />
+  
+<img width="1352" alt="output3" src="https://github.com/user-attachments/assets/54e67585-8828-47df-97a9-142b1d92a3aa" />
+
 
 ## ✍️ Authored By  
 Isha Chaudhary
