@@ -25,11 +25,10 @@ mvn clean install
 
 ## Output Screenshots  
 
-<img src="assests/output1.png" alt="output" width="300"/>
-<img src="assets/output2.png" alt="output" width="300"/>
 
-<img src="assets/output3.png" alt="output" width="300"/>
-
+![Output 1](./assets/output1.png)  
+![Output 2](./assets/output2.png)  
+![Output 3](./assets/output3.png)
 
 ## ✍️ Authored By  
 Isha Chaudhary
